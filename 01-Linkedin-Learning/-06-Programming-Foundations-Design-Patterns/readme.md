@@ -13,5 +13,5 @@
 - Object creation with the Factory Method pattern
 - Using design principles to guide your object-oriented design
 -------------------------------
-[Course Link](https://www.linkedin.com/learning/programming-foundations-design-patterns-2/)
+[Course Link](https://lnkd.in/dmvv_ixx)
 <br>[Preview Certificate](https://lnkd.in/dHYeCuTe)
