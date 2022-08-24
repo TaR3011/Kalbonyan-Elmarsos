@@ -17,7 +17,7 @@
 ### Pig Game
 
 - [Project-code](./Projects/Pig-Game)
-- [Live Demo](https://guessmynumber-game-trr.netlify.app/)
+- [Live Demo](https://guessmynumber-game-turki.netlify.app/)
 
 ### Bankist
 
@@ -27,7 +27,7 @@
 ### Bankist Site
 
 - [Project-code](./Projects/Bankist-Site)
-- [Live Demo](https://bankist-site-trr.netlify.app/)
+- [Live Demo](https://bankist-site-turki.netlify.app/)
 
 ### Mapty
 
