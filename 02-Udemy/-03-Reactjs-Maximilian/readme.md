@@ -10,9 +10,9 @@
 
   <br/>
 
-- [Section 3 Project Live Demo](https://student-list-turki.netlify.app/)
-- [Section 4 Project Live Demo](https://login-app-turki.netlify.app/)
-- [Section 5 Project Live Demo](https://meals-app-turki.netlify.app/)
+- [Section 3 Project Live Demo]()
+- [Section 4 Project Live Demo]()
+- [Section 5 Project Live Demo]()
 
 ### goals app (S6-S7)
 
