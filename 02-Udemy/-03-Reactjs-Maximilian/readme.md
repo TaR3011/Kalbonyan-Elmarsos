@@ -77,7 +77,7 @@
 ### Redux Cart(S19)
 
 - [Project-code](./Projects/redux-cart)
-- [Live Demo]()
+- [Live Demo](https://shooping-app-redux-turki.netlify.app/)
 
 ### Quotes app(S20)
 
