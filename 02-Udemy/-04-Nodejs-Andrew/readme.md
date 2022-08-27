@@ -10,7 +10,7 @@
 - [Live Demo]()
 ### Chat App
 - [Project-code](./Projects/Chat-App)
-- [Live Demo]()
+- [Live Demo](https://trr-node-chat-app.herokuapp.com/)
 
 ---
 ## Code
