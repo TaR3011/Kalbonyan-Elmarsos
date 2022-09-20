@@ -8,7 +8,10 @@
 <br>
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+![image](https://user-images.githubusercontent.com/95168051/191357475-870f49d4-3465-4a83-8970-4a85a7ec8f48.png))
+[App Screenshot]
+![image](https://user-images.githubusercontent.com/95168051/191357532-592331fd-3d5b-4d2a-a84c-f2ca34a23430.png)
+![image](https://user-images.githubusercontent.com/95168051/191357587-3e788417-8f69-4ca8-b35f-89f01ff77164.png)
+![image](https://user-images.githubusercontent.com/95168051/191357763-2f07120f-2f4a-4dfa-9496-36ea26639532.png)
 
 ## Features
 
