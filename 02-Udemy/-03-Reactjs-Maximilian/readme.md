@@ -117,7 +117,7 @@
 ### Section 29 Project
 
 - [Project-code](./Projects/Section-29/)
-- [Live Demo]()
+- [Live Demo](https://meetup-app-turki.netlify.app/)
 
 ---
 
