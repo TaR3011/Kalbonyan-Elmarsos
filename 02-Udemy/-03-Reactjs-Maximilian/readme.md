@@ -21,7 +21,7 @@
 
 <br/>
 
-- [Section 6 Project Live Demo]()
+- [Section 6 Project Live Demo](https://goals-app-part1-turki.netlify.app/)
 - [Section 7 Project Live Demo](https://golas-app-2-turki.netlify.app/)
 
 ### Section 8-9 Project
