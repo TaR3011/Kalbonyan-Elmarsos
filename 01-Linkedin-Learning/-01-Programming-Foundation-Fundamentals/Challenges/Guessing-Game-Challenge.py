@@ -5,4 +5,4 @@ if guess=="pizza":
 else:
     print("Sorry , That is not it")
 
-print("Thank you for palying")
+print("Thank you for playing")
