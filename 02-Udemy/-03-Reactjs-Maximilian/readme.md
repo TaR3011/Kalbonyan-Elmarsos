@@ -82,7 +82,7 @@
 ### Quotes app(S20)
 
 - [Project-code](./Projects/quotes-app)
-- [Live Demo](https://quotes-app-turki.netlify.app/quotes)
+- [Live Demo](https://quotes-app-turki.netlify.app)
 
 ### Authentication-page(S22)
 
