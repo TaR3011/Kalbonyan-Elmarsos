@@ -82,12 +82,12 @@
 ### Quotes app(S20)
 
 - [Project-code](./Projects/quotes-app)
-- [Live Demo](https://quotes-app-turki.netlify.app/quotes)
+- [Live Demo]()
 
 ### Authentication-page(S22)
 
 - [Project-code](./Projects/Authentication-page)
-- [Live Demo](https://auth-app-turki.netlify.app/auth)
+- [Live Demo]()
 
 ### Meetsup app(S23)
 
